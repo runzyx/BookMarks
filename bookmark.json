@@ -1,1 +1,61 @@
-
+[
+    {
+        "children": [
+            {
+                "dateAdded": 1744078899117,
+                "dateLastUsed": 1745820675224,
+                "id": "10",
+                "index": 0,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Wikipedia",
+                "url": "https://www.wikipedia.org/"
+            },
+            {
+                "dateAdded": 1744078820364,
+                "id": "8",
+                "index": 1,
+                "parentId": "1",
+                "syncing": true,
+                "title": "arXiv.org e-Print archive",
+                "url": "https://arxiv.org/"
+            },
+            {
+                "dateAdded": 1744162627939,
+                "dateLastUsed": 1746582606263,
+                "id": "12",
+                "index": 2,
+                "parentId": "1",
+                "syncing": true,
+                "title": "GitHub",
+                "url": "https://github.com/"
+            },
+            {
+                "dateAdded": 1744164806874,
+                "id": "13",
+                "index": 3,
+                "parentId": "1",
+                "syncing": true,
+                "title": "力扣 (LeetCode) 全球极客挚爱的技术成长平台",
+                "url": "https://leetcode.cn/"
+            },
+            {
+                "dateAdded": 1745807535096,
+                "id": "20",
+                "index": 4,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Newest Questions - Stack Overflow",
+                "url": "https://stackoverflow.com/questions"
+            }
+        ],
+        "dateAdded": 1739936740833,
+        "dateGroupModified": 1745807535096,
+        "folderType": "bookmarks-bar",
+        "id": "1",
+        "index": 0,
+        "parentId": "0",
+        "syncing": true,
+        "title": "书签栏"
+    }
+]
